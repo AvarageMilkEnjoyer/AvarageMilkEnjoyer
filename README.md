@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvarageMilkEnjoyer
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C#, HTML
 - 📫 How to reach me AverageMilkEnjoyer#9164 (discord)
 
 <!---
