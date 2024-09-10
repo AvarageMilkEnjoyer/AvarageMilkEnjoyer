@@ -1,7 +1,8 @@
-- 🌱 Learning Python, C++ (Arduino), C# (Unity), HTML & CSS
-- 📫 AverageMilkEnjoyer (discord)
-- 🏋️‍♂ Lifter
-- 💻 Not a profesional
+(Basic) Python, C (Arduino), C# (Unity), HTML & CSS
+
+High school student making cool shit 🗣💯!!
+
+
   
 <!---
 AvarageMilkEnjoyer/AvarageMilkEnjoyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
